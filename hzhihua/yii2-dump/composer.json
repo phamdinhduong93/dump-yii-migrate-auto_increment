@@ -2,14 +2,14 @@
     "name": "hzhihua/yii2-dump",
     "description": "Generate the schema from an existing database",
     "keywords": ["yii2", "extension", "database", "command", "migration", "generator"],
-    "homepage": "https://github.com/Hzhihua/yii2-dump",
+    "homepage": "https://github.com/phamdinhduong93/dump-yii-migrate-auto_increment.git",
     "type": "yii2-extension",
     "license": "BSD-3",
     "authors": [
         {
             "name": "Hzhihua",
             "email": "cnzhihua@gmail.com",
-            "homepage": "https://github.com/Hzhihua/yii2-dump"
+            "homepage": https://github.com/phamdinhduong93/dump-yii-migrate-auto_increment.git"
         }
     ],
     "require": {
